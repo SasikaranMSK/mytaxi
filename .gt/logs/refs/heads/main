@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 963ca58a48b56dca38babeab4074f78cd3a028f1 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770102309 +0530	clone: from https://github.com/Mithu2201/Meter_taxi.git
+963ca58a48b56dca38babeab4074f78cd3a028f1 36638277e07f239dce1f3356eb2e72c3b70165d5 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770102559 +0530	pull --tags origin main: Fast-forward
+36638277e07f239dce1f3356eb2e72c3b70165d5 6b24e5bbc194258fd4e1b36442f7fe1bc299176f sasikaranmsk <sasikarankumaraiya@gmail.com> 1770275818 +0530	pull --tags origin main: Fast-forward
+6b24e5bbc194258fd4e1b36442f7fe1bc299176f 3813148b22e7c3d486da74749434e5730677b68c sasikaranmsk <sasikarankumaraiya@gmail.com> 1770306540 +0530	commit: meter foreground task implement, fix timer, tarrif calc
+3813148b22e7c3d486da74749434e5730677b68c 71e4b0ec2b853dd4fd0db3897b5e82f25ef64bf5 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770440038 +0530	pull --tags origin main: Fast-forward
+71e4b0ec2b853dd4fd0db3897b5e82f25ef64bf5 95f0c10ecbd920bde6cc127b9794c74d74ab61fc sasikaranmsk <sasikarankumaraiya@gmail.com> 1770780581 +0530	pull --tags origin main: Fast-forward
+95f0c10ecbd920bde6cc127b9794c74d74ab61fc 375f74fa523aee96d28cb5e8b42f1234e183a678 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770784808 +0530	commit: profile dropdown, view profile
+375f74fa523aee96d28cb5e8b42f1234e183a678 4580ae2d60fca93552ed494d39a7295d6dc66027 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770792741 +0530	pull --tags origin main: Fast-forward
+4580ae2d60fca93552ed494d39a7295d6dc66027 653b42bfa1bfb60dbcd34af130c60ddccb37ece9 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770887777 +0530	commit: tarrif remotedatasource fix
+653b42bfa1bfb60dbcd34af130c60ddccb37ece9 de16e7da7b1188b1b66996fd52bcf287fd6ae01e sasikaranmsk <sasikarankumaraiya@gmail.com> 1770890210 +0530	commit (merge): TokenStorage usage, Merge conflict fixed
+de16e7da7b1188b1b66996fd52bcf287fd6ae01e 07e179c82d7da5faa6c2cfa7d6a2b1754c927dcc sasikaranmsk <sasikarankumaraiya@gmail.com> 1770975151 +0530	pull --tags origin main: Fast-forward
+07e179c82d7da5faa6c2cfa7d6a2b1754c927dcc 10ddbe0af336eca086bd742fb5003bc590e85574 sasikaranmsk <sasikarankumaraiya@gmail.com> 1770978356 +0530	commit: Show Vehicle info, Some UI fixes
+10ddbe0af336eca086bd742fb5003bc590e85574 35e342e6fb98b93bef3ee0d5262c216d434ff081 sasikaranmsk <sasikarankumaraiya@gmail.com> 1771074778 +0530	pull --tags origin main: Fast-forward
+35e342e6fb98b93bef3ee0d5262c216d434ff081 0ce3485217cfd729443463f412a03b03a7afd14f sasikaranmsk <sasikarankumaraiya@gmail.com> 1771993669 +0530	pull --tags origin main: Fast-forward
+0ce3485217cfd729443463f412a03b03a7afd14f 621e31b636f6ad3d6f127915557bed1ecb43806b sasikaranmsk <sasikarankumaraiya@gmail.com> 1772000841 +0530	commit: added route persistence
+621e31b636f6ad3d6f127915557bed1ecb43806b f44e7d5cd4ad317fa66f55fd463d8109549cb747 sasikaranmsk <sasikarankumaraiya@gmail.com> 1772001360 +0530	commit: fix auto logout while app is killed
+f44e7d5cd4ad317fa66f55fd463d8109549cb747 c93e4500126f714ad48a8a801a1e7057abe4e5f8 sasikaranmsk <sasikarankumaraiya@gmail.com> 1772003472 +0530	commit: fix route persistence for all pages
+c93e4500126f714ad48a8a801a1e7057abe4e5f8 0bc7e94bba97198d4df490ff00a279657ecb763c sasikaranmsk <sasikarankumaraiya@gmail.com> 1772083453 +0530	pull --tags origin main: Fast-forward
+0bc7e94bba97198d4df490ff00a279657ecb763c 448cb71261a7468daadc035708122ba683d3aa60 sasikaranmsk <sasikarankumaraiya@gmail.com> 1772908238 +0530	pull --tags origin main: Fast-forward
+448cb71261a7468daadc035708122ba683d3aa60 1757d688e12e3550469b034ac1a5a5b9a5121581 sasikaranmsk <sasikarankumaraiya@gmail.com> 1772964090 +0530	commit: implement driver dashboard to manage jobs, profile dropdown, logout, back confirmations

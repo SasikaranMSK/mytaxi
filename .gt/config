@@ -1,0 +1,43 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Mithu2201/Meter_taxi.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+[branch "20260205_Sasikaran"]
+	vscode-merge-base = origin/main
+[branch "05022026_Sasikaran"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/05022026_Sasikaran
+[branch "11022026_Sasikaran"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/11022026_Sasikaran
+[branch "12022026_Sasikaran"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/12022026_Sasikaran
+[branch "13022026_Sasikaran"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/13022026_Sasikaran
+[branch "12022026.local"]
+	remote = origin
+	merge = refs/heads/12022026.local
+	vscode-merge-base = origin/12022026.local
+[branch "25022026_Sasikaran"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/25022026_Sasikaran
+[branch "20260308_Sasikaran"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/20260308_Sasikaran
