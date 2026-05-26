@@ -42,7 +42,6 @@ dependencies:
   equatable: ^2.0.8
   get_it: ^9.2.0
   dio: ^5.9.0
-  te_widgets: ^2.0.7
   wakelock_plus: ^1.1.5
   file_picker: ^10.3.10
 
